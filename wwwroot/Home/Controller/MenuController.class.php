@@ -10,7 +10,7 @@ class MenuController extends Controller {
 	
 	public function menulist()
 	{
-		echo "home menu menulist";
+		echo "home menu menulist".time();
 	}
 
 }

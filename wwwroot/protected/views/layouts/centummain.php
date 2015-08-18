@@ -88,58 +88,7 @@
 	<!-- Header / End -->
 	
 	<!-- Navigation -->
-	<div class="sixteen columns">
-
-		<div id="navigation">
-			<ul id="nav">
-
-				<li><a href="index.html">Home</a></li>
-
-				<li><a href="#">Features</a>
-					<ul>
-					<li><a href="full_width.html">Full Width</a></li>
-					<li><a href="about.html">About Us</a></li>
-					<li><a href="services.html">Services</a></li>
-					<li><a href="pricing_tables.html">Pricing Tables</a></li>
-
-					<li><a href="#">Page Templates</a>
-						<ul>
-							<li><a href="sidebar_right.html">Sidebar Right</a></li>
-							<li><a href="sidebar_left.html">Sidebar Left</a></li>
-							<li><a href="blog_post.html">Single Post</a></li>
-							<li><a href="single_project.html">Single Project</a></li>
-						</ul>
-					</li>
-					</ul>
-				</li>
-
-				<li><a href="shortcodes.html">Shortcodes</a></li>
-
-				<li><a href="#">Portfolio</a>
-					<ul>
-						<li><a href="portfolio_2.html">2 Columns</a></li>
-						<li><a href="portfolio_3.html">3 Columns</a></li>
-						<li><a href="portfolio_4.html">4 Columns</a></li>
-						<li><a href="single_project.html">Single Project</a></li>
-					</ul>
-				</li>
-
-				<li><a href="blog.html">Blog</a></li>
-				<li><a href="contact.html">Contact</a></li>
-
-			</ul>
-
-			<!-- Search Form -->
-			<div class="search-form">
-				<form method="get" action="#">
-					<input type="text" class="search-text-box" />
-				</form>
-			</div>
-
-		</div> 
-		<div class="clear"></div>
-		
-	</div>
+	<?php include "centummenu.php";?>
 	<!-- Navigation / End -->
 
 </div>
@@ -195,7 +144,7 @@
 		<!-- Footer / Bottom -->
 		<div class="sixteen columns">
 			<div id="footer-bottom">
-				© Copyright 2012 More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>. All rights reserved.
+				京备
 				<div id="scroll-top-top"><a href="#"></a></div>
 			</div>
 		</div>

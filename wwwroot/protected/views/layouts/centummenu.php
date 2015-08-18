@@ -1,24 +1,52 @@
-<?php
-/*
-+-------------------------------------------------------------------------+
-|   测试测试
-+-------------------------------------------------------------------------+
-|  主要针对：  描述XXXX
-+-------------------------------------------------------------------------+
-| 设计和编码人员包括：
-|    
-+-------------------------------------------------------------------------+
-| 维护记录：
-| 文件创建人员：bingyu.jia 2015-8-17
-+-------------------------------------------------------------------------+
-|           ———— Copyright (C) 2010-2016 The iTalk TV R&D Group
-+-------------------------------------------------------------------------+
-*/
-/* =--==---==----  配置及类和函数的引用  ----==---==--= */
+<div class="sixteen columns">
 
+		<div id="navigation">
+			<ul id="nav">
 
-/* =--==---==----  主功能  ----==---==--= */
-#1# 第一步描述
-#2# 
-#3# 
-/* =--==---==----  仅在本文件使用的方法  ----==---==--= */
+				<li><a href="/">首 页</a></li>
+
+				<li><a href="#">这里农家饭</a>
+					<ul>
+					<li><a href="full_width.html">Full Width</a></li>
+					<li><a href="about.html">About Us</a></li>
+					<li><a href="services.html">Services</a></li>
+					<li><a href="pricing_tables.html">Pricing Tables</a></li>
+
+					<li><a href="#">Page Templates</a>
+						<ul>
+							<li><a href="sidebar_right.html">Sidebar Right</a></li>
+							<li><a href="sidebar_left.html">Sidebar Left</a></li>
+							<li><a href="blog_post.html">Single Post</a></li>
+							<li><a href="single_project.html">Single Project</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+
+				<li><a href="shortcodes.html">这里木屋</a></li>
+
+				<li><a href="#">这里菜地</a>
+					<ul>
+						<li><a href="portfolio_2.html">2 Columns</a></li>
+						<li><a href="portfolio_3.html">3 Columns</a></li>
+						<li><a href="portfolio_4.html">4 Columns</a></li>
+						<li><a href="single_project.html">Single Project</a></li>
+					</ul>
+				</li>
+
+				<li><a href="blog.html">周边旅游</a></li>
+				<li><a href="contact.html">到这里来</a></li>
+
+			</ul>
+
+			<!-- Search Form -->
+			<div class="search-form">
+				<form method="get" action="#">
+					<input type="text" class="search-text-box" />
+				</form>
+			</div>
+
+		</div> 
+		<div class="clear"></div>
+		
+	</div>

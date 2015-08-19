@@ -7,7 +7,7 @@
 <!-- Basic Page Needs
 ================================================== -->
 <meta charset="utf-8">
-<title> - Free Theme s& Templates</title>
+<title>这里 农家院 怀柔 宽沟 怀柔水库 桥梓 京郊 慕田峪 水长城</title>
 
 <!-- Mobile Specific
 ================================================== -->
@@ -144,7 +144,7 @@
 		<!-- Footer / Bottom -->
 		<div class="sixteen columns">
 			<div id="footer-bottom">
-				京备
+				京ICP备 15041600
 				<div id="scroll-top-top"><a href="#"></a></div>
 			</div>
 		</div>

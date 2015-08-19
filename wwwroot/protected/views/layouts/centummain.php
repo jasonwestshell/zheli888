@@ -38,7 +38,7 @@
 <script src="/media/js/switcher.js"></script>
 
 </head>
-<body>
+<body style="background-image: url('/media/images/bg/purty_wood.png');">
 
 <!-- Wrapper Start -->
 <div id="wrapper">
@@ -77,8 +77,8 @@
 			<!-- Contact Details -->
 			<div id="contact-details">
 				<ul>
-					<li><i class="mini-ico-envelope"></i><a href="#">support@centum.com</a></li>
-					<li><i class="mini-ico-user"></i>135 0106 7112</li>
+					<li>微信号：zhelixiaoyuan</li>
+					<li>电话：135 0106 7112</li>
 				</ul>
 			</div>
 

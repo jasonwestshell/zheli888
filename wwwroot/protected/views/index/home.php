@@ -14,16 +14,16 @@
 					<li>
 						<img src="/media/images/slider-img-01.jpg" alt="" />
 						<div class="slide-caption">
-							<h3>This is a caption</h3>
-							<p>Donec scelerisque aliquet mi, non venenatis urnas iaculis. Utea id nila ante. Cras est massa, interdum  ateal imperdiet etean, gravida eu quame. Aeneana volutpat hendrerit posuere.</p>
+							<h3>图片标题</h3>
+							<p>相应的介绍文字</p>
 						</div>
 					</li>
 					
 					<li>
 						<img src="/media/images/slider-img-02.jpg" alt="" />
 						<div class="slide-caption">
-							<h3>This is a caption</h3>
-							<p>Donec scelerisque aliquet mi, non venenatis urnas iaculis. Utea id nila ante. Cras est massa, interdum  ateal imperdiet etean, gravida eu quame. Aeneana volutpat hendrerit posuere.</p>
+							<h3>烤全羊</h3>
+							<p>美味的烤全羊</p>
 						</div>
 					</li>
 					

@@ -5,36 +5,37 @@
 
 				<li><a href="/">首 页</a></li>
 
-				<li><a href="#">这里农家饭</a>
-					<ul>
-					<li><a href="full_width.html">Full Width</a></li>
-					<li><a href="about.html">About Us</a></li>
-					<li><a href="services.html">Services</a></li>
-					<li><a href="pricing_tables.html">Pricing Tables</a></li>
-
-					<li><a href="#">Page Templates</a>
-						<ul>
-							<li><a href="sidebar_right.html">Sidebar Right</a></li>
-							<li><a href="sidebar_left.html">Sidebar Left</a></li>
-							<li><a href="blog_post.html">Single Post</a></li>
-							<li><a href="single_project.html">Single Project</a></li>
-						</ul>
-					</li>
-					</ul>
+				<li><a href="<?php echo $this->createUrl('cook/index');?>">这里农家饭</a>
+					<!--<ul>
+                        <li><a href="<?php //echo $this->createUrl('cook/cold');?>">凉菜 拌菜</a></li>
+                        <li><a href="<?php //echo $this->createUrl('cook/fried');?>">炒菜</a></li>
+                        <li><a href="<?php //echo $this->createUrl('cook/stew');?>">炖鱼 炖肉</a></li>
+                        <li><a href="<?php //echo $this->createUrl('cook/other');?>">其他饭菜</a></li>
+					</ul>-->
 				</li>
 
-				<li><a href="shortcodes.html">这里木屋</a></li>
-
+				<li><a href="<?php echo $this->createUrl('cabin/index');?>">这里木屋</a>
+                	<!--<ul>
+						<li><a href="<?php //echo $this->createUrl('cabin/bigcabin');?>">大木屋</a></li>
+						<li><a href="<?php //echo $this->createUrl('cabin/smallcabin');?>">小木屋</a></li>
+						<li><a href="<?php //echo $this->createUrl('cabin/room');?>">客房</a></li>
+					</ul>-->
+                </li>
 				<li><a href="#">这里菜地</a>
 					<ul>
-						<li><a href="portfolio_2.html">2 Columns</a></li>
-						<li><a href="portfolio_3.html">3 Columns</a></li>
-						<li><a href="portfolio_4.html">4 Columns</a></li>
-						<li><a href="single_project.html">Single Project</a></li>
+						<li><a href="portfolio_2.html">营养蔬菜</a></li>
+						<li><a href="portfolio_3.html">采摘</a></li>
+						<li><a href="portfolio_4.html">现摘现做</a></li>
 					</ul>
 				</li>
 
-				<li><a href="blog.html">周边旅游</a></li>
+				<li><a href="blog.html">周边旅游</a>
+                	<ul>
+						<li><a href="portfolio_2.html">宽沟</a></li>
+						<li><a href="portfolio_3.html">慕田峪</a></li>
+						<li><a href="portfolio_4.html">圣泉山</a></li>
+					</ul>
+                </li>
 				<li><a href="contact.html">到这里来</a></li>
 
 			</ul>

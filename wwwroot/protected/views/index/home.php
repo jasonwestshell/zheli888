@@ -92,36 +92,36 @@
 	
 	<!-- Project -->
 	<div class="four columns">
-		<div class="picture"><a href="single_project.html"><img src="/media/images/portfolio/portoflio-09.jpg" alt=""/><div class="image-overlay-link"></div></a></div>
+		<div class="picture"><img src="/media/images/portfolio/portoflio-09.jpg" alt=""/></div>
 		<div class="item-description">
-			<h5><a href="#">草原之香烤全羊 一 美味不可挡</a></h5>
+			<h5><a href="javascript:void(0);">草原之香烤全羊 一 美味不可挡</a></h5>
 			<p></p>
 		</div>
 	</div>
 	
 	<!-- Project -->
 	<div class="four columns">
-		<div class="picture"><a href="images/portfolio/portoflio-08-large.jpg" rel="image" title="Coffee Time"><img src="/media/images/portfolio/portoflio-08.jpg" alt=""/><div class="image-overlay-zoom"></div></a></div>
+		<div class="picture"><img src="/media/images/portfolio/portoflio-08.jpg" alt=""/></div>
 		<div class="item-description">
-			<h5><a href="#">休闲时刻 一 林荫小道</a></h5>
+			<h5><a href="javascript:void(0);">休闲时刻 一 林荫小道</a></h5>
 			<p></p>
 		</div>
 	</div>
 	
 	<!-- Project -->
 	<div class="four columns">
-		<div class="picture"><a href="single_project.html"><img src="/media/images/portfolio/portoflio-10.jpg" alt=""/><div class="image-overlay-link"></div></a></div>
+		<div class="picture"><img src="/media/images/portfolio/portoflio-10.jpg" alt=""/></div>
 		<div class="item-description">
-			<h5><a href="#">这里农家院 一 走进这里</a></h5>
+			<h5><a href="javascript:void(0);">这里农家院 一 走进这里</a></h5>
 			<p></p>
 		</div>
 	</div>
 	
 	<!-- Project -->
 	<div class="four columns">
-		<div class="picture"><a href="single_project.html"><img src="/media/images/portfolio/portoflio-07.jpg" alt=""/><div class="image-overlay-link"></div></a></div>
+		<div class="picture"><img src="/media/images/portfolio/portoflio-07.jpg" alt=""/></div>
 		<div class="item-description">
-			<h5><a href="#">世外桃源 一 满园花香</a></h5>
+			<h5><a href="javascript:void(0);">世外桃源 一 满园花香</a></h5>
 			<p></p>
 		</div>
 	</div>
@@ -138,11 +138,11 @@
 		<div class="headline no-margin"><h3>游客留念</h3></div>
 		
 		<ul class="client-list">
-			<li><img src="/media/images/logo-01.png" alt=""/></li>
-			<li><img src="/media/images/logo-02.png" alt=""/></li>
-			<li><img src="/media/images/logo-03.png" alt=""/></li>
-			<li><img src="/media/images/logo-04.png" alt=""/></li>
-			<li><img src="/media/images/logo-05.png" alt=""/></li>
+			<li><img src="/media/images/index/liu_nian_1.jpg" alt=""/></li>
+			<li><img src="/media/images/index/liu_nian_2.jpg" alt=""/></li>
+			<li><img src="/media/images/index/liu_nian_3.jpg" alt=""/></li>
+			<li><img src="/media/images/index/liu_nian_4.jpg" alt=""/></li>
+			<li><img src="/media/images/index/liu_nian_5.jpg" alt=""/></li>
 		</ul>
 		
 	</div>

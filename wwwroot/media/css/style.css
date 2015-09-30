@@ -15,7 +15,7 @@
 /* Logo / Tagline
 ====================================*/
 #logo {
-	margin-top: 22px;
+	margin-top: 2px;
 }
 
 #logo a img{float: left;}
@@ -26,6 +26,7 @@
 	margin: 0 0 0 20px;
 	padding: 5px 0 5px 20px;
 	float: left;
+	margin-top: 40px;
 }
 
 /* Contact Details
@@ -103,7 +104,7 @@
 }
 
 #navigation {
-	background: #303030;
+	background: #303030 ;
 	display: block;
 	width: 100%;
 	float: left;

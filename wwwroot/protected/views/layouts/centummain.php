@@ -54,7 +54,7 @@
 		<!-- Logo -->
 		<div class="eight columns">
 			<div id="logo">
-				<a href="#"><img src="/media/images/logo.png" alt="logo" /></a>
+				<a href="/"><img src="/media/images/index/logo_80.png" alt="logo" /></a>
 				<div id="tagline">就是您自己的农家院</div>
 				<div class="clear"></div>
 			</div>
@@ -64,13 +64,13 @@
 		<div class="eight columns">
 			
 			<!-- Social Icons -->
-			<ul class="social-icons">
+			<!--<ul class="social-icons">
 				<li class="facebook"><a href="#">Facebook</a></li>
 				<li class="twitter"><a href="#">Twitter</a></li>
 				<li class="dribbble"><a href="#">Dribbble</a></li>
 				<li class="linkedin"><a href="#">LinkedIn</a></li>
 				<li class="pintrest"><a href="#">Pintrest</a></li>
-			</ul>
+			</ul>-->
 			
 			<div class="clear"></div>
 			

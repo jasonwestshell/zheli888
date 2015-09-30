@@ -36,7 +36,7 @@
 						<li><a href="http://www.bjshengqs.com/" target="_blank">圣泉山</a></li>
 					</ul>
                 </li>
-				<li><a href="contact.html">到这里来</a></li>
+				<li><a href="<?php echo $this->createUrl('index/come');?>">到这里来</a></li>
 
 			</ul>
 

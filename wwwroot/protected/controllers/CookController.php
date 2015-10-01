@@ -2,29 +2,19 @@
 
 class CookController extends Controller
 {
+	
 	public function actionIndex()
 	{
-		$this->render('index');
-	}
-
-	public function actionCold()
-	{
-		$this->render('cold');
-	}
-	
-	public function actionFried()
-	{
-		$this->render('fried');
-	}
-	
-	public function actionStew()
-	{
-		$this->render('stew');
-	}
-	
-	public function actionOther()
-	{
-		$this->render('other');
+		$model = new Pic();
+		$data = $model->findAll(array(
+			'condition' => 'type=1 and state=1',
+			'order' => 'seq asc',
+		));
+		
+		
+		$this->render('index',array(
+			'data' => $data,
+		));
 	}
 	
 }

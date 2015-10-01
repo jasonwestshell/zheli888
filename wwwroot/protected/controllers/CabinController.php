@@ -4,24 +4,15 @@ class CabinController extends Controller
 {
 	public function actionIndex()
 	{
-		$this->render('index');
+		$model = new Pic();
+		$data = $model->findAll(array(
+			'condition' => 'type=2 and state=1',
+			'order' => 'seq asc',
+		));
+		
+		
+		$this->render('index',array(
+			'data' => $data,
+		));
 	}
-
-	public function actionBigcabin()
-	{
-		$this->render('bigcabin');
-	}
-	
-	public function actionSmallcabin()
-	{
-		$this->render('smallcabin');
-	}
-	
-	public function actionRoom()
-	{
-		$this->render('room');
-	}
-	
-	
-	
 }

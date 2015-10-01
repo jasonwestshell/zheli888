@@ -405,8 +405,6 @@ html[xmlns] .slides {display: block;}
 ====================================*/
 .picture {position: relative;}
 .picture img {width: 100%; height: auto;}
-.image-h225 {heigth: 225px;}
-.image-h400 {heigth: 400px;}
 
 .image-overlay-link,
 .image-overlay-zoom {
